@@ -1,0 +1,49 @@
+.btn{
+  height: 50px;
+  width:50px;
+  border-radius:3px;
+  font-size: 30px;
+}
+
+.btn:hover{
+  background-color:black;
+  color:white;
+  height:60px;
+  width:60px;
+  border-radius:4px;
+}
+
+#num {
+  height: 40px;
+  padding: 5px 10px;
+  font-size: 20px;
+}
+
+.btn, .btnum {
+  margin: 5px;
+}
+
+.btnum {
+  height: 50px;
+  width: 50px;
+  border-radius: 3px;
+  font-size: 30px;
+}
+
+.btnum:hover {
+  background-color: black;
+  color: white;
+  height: 60px;
+  width: 60px;
+  border-radius: 4px;
+}
+
+.calc {
+  width: max-content;
+  margin: 50px auto;
+  padding: 20px;
+  border: 2px solid gray;
+  border-radius: 10px;
+  background-color: #f2f2f2;
+  text-align: center;
+}
